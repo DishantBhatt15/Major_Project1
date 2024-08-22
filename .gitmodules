@@ -1,0 +1,3 @@
+[submodule "TimeTable"]
+	path = TimeTable
+	url = https://github.com/hayrapetyan-armine/Timetable.git
